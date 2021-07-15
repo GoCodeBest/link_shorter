@@ -1,0 +1,12 @@
+{
+  "server": {
+    "address": "guarded-lowlands-89623.herokuapp.com",
+    "port": "",
+    "protocol": "https"
+  },
+  "redisdb": {
+    "address": "172.16.238.3",
+    "port": "6379"
+  },
+  "shu_timeout": 5
+}
